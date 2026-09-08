@@ -1,2 +1,2 @@
-# Wordpress-Utilitaire-
+# Wordpress-Utilitaire
 Outil Custom pour Wordpress
